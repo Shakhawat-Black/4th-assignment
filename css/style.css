@@ -1,0 +1,257 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body {
+	font-family: 'Roboto', sans-serif;
+}
+.container {
+	width: 1140px;
+	margin: 0 auto;
+}
+header {
+	background-color: #87509c;
+	padding: 25px 0px;
+	background-size: cover;
+}
+.logo {
+
+	width: 40%;
+
+	float: left;
+}
+.logo img {
+
+}
+.menu {
+
+	width: 60%;
+	float: left;
+}
+nav ul {
+
+	list-style: none;
+}
+nav ul li{
+	
+	display: inline-block;		
+	margin: 0px 40px;
+}
+nav ul li a{
+	
+	color: #fff;		
+	text-decoration: none;
+}
+.header-banner {
+
+	width: 600px;
+	margin: 0 auto;
+	padding: 100px 0px 126px;
+}
+.header-banner h2{
+	text-align: center;
+	color: #fff;
+	line-height: 33px;
+	font-size: 28px;
+}
+.btn {
+	margin: 10% auto;
+	display: block;
+	background: #0E6655;
+	padding: 13px 33px;
+	font-size: 18px;
+	color: #fff;
+	border: none;
+	box-shadow: 0px 4px 0px #1B4F72;
+	text-transform: uppercase;
+}
+.service {
+	width: 100%;
+	float: left;
+	padding: 50px 0px;
+	background-color: #17c2a4;
+}
+.tittle {
+	width: 655px;
+	margin: 0 auto;
+	text-align: center;
+}
+.tittle h2{	
+	margin: 12px 0px;
+}
+.tittle span{	
+	display: block;
+	border-bottom: 2px solid #161616;
+	width: 10%;
+	margin: 10px auto;
+}
+.tittle p{
+
+}
+.service-section {
+	width: 25%;
+	float: left;
+	padding: 50px 0px;
+}
+.service-section img{
+	size: 120px;	
+}
+.service-section h2{
+	font-size: 25px;	
+}
+.service-section p{
+	font-size: 13px;
+}
+.team {
+	width: 100%;
+	float: left;
+	padding: 50px 0px;
+	background-color: #E7F2F8;	
+}
+.team-section {
+	width: 25%;
+	float: left;
+	padding: 50px 0px;
+}
+.team-section img{
+	width: 180px;
+}
+.team-section h2{	
+}
+.team-section h5 {
+	padding: 3px 0;
+}
+.team-section p{
+	margin: 4px 2px;
+	font-size: 14px;
+}
+.skill {
+	width: 100%;
+	float: left;
+	padding: 50px 0px;
+	background-color: #FFFFFF;	
+}
+.skill-section {
+	width: 25%;
+	float: left;
+	padding: 50px 0px;
+}
+.skill-section img{
+	width: 140px;
+}
+.skill-section h3 {
+	margin: 4px 30px;
+}
+.portfolio {
+	width: 100%;
+	float: left;
+	padding: 50px 0px;
+	background-color: #FFDC98;
+}
+.port-menu {
+	width: 100%;
+	float: left;
+}
+.port-menu nav {
+	margin: 4px 0px;
+}
+.port-menu nav ul {
+	text-align: center;
+
+}
+.port-menu nav ul li {
+	padding: 2px 3px;
+	background-color: gray;
+}
+.port-menu nav ul li a {
+	font-size: 16px;
+	color: white;
+}
+.port-one {
+	width: 100%;
+	float: left;
+	margin: 25px 0px;
+
+}
+.port-section {
+	width: 50%;
+	float: left;
+}
+.port-section img {
+	width: 500px;
+}
+.people {
+	width: 100%;
+	float: left;
+	padding: 50px 0px;
+	background-color: #D74681;	
+}
+.people-one{
+	width: 100%;
+	float: left;
+	margin: 25px 0px;
+}
+.people-section {
+	width: 50%;
+	float: left;
+}
+.contact-section {
+	width: 100%;
+	float: left;
+	padding: 50px 0px;
+	background-color: #3C549A;
+}
+.people-section img{
+	width: 120px;
+	display: block;
+	float: left;
+}
+.people-section img p {
+	color: white;
+    text-align: left;
+    margin: 30px;
+}
+.people-section h2 {
+	color: #f2d80b;
+    text-align: left;
+    margin: 10px 100px;
+}
+.people-section h5{
+	color: #f2d80b;
+    text-align: left;
+    margin: 0px 125px;
+}
+.contact-form {
+	width: 640px;
+    margin: 50px auto;
+}
+.form-control {
+	width: 45%;
+	margin: 4px 0px;
+    padding: 5px 6px;
+}
+.text-area {
+    width: 94%;
+    height: 200px;
+    padding: 5px 5px;
+    margin: 4px 0px;	
+}
+footer {
+	width: 100%;
+	float: left;
+	background-color: #054976;
+}
+.footer-menu nav ul li {
+    display: inline-block;
+    margin: 0px 50px;
+    font-size: 20px;
+    text-transform: uppercase;
+    border: none;
+}
+
+
+.footer-menu nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0px 40px;
+}    
